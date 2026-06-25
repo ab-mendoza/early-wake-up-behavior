@@ -121,6 +121,6 @@ Early-Wake-Up-Behavior/
 
 ## Author
 
-**Abraham [Last Name]**
+**Abraham Mendoza**
 
 Data Science Portfolio Project
